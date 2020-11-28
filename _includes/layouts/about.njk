@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        {% metagen 
+            title="About - John Smith's Photo Gallery",
+            desc="A page about John Smith, and photography.",
+            url="https://eleventy-gallery.netlify.app/about/",
+            img="https://eleventy-gallery.netlify.app/images/shop-plants-large.jpg",
+            img_alt="Terrace outside shop window with green plants and pink tree on night street",
+            twitterHandle="@tannerdolby",
+            name="Tanner Dolby"
+        %}
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon_data/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon_data/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon_data/favicon-16x16.png">
+        {% set css %}
+            {% include "css/style.css" %}
+        {% endset %}
+        <style>
+            {{ css | cssmin | safe }}
+        </style>
+    <head>
+    <body style="min-height: 100vh; display: flex; flex-direction: column;">
+        <header>
+            <nav class="nav-main">
+                <a class="home-button" href="/">{{ firstName }} {{ lastName }}</a>
+                <ul class="nav-list">
+                    <li style="margin-left: 0"><a class="link" href="/">Home</a></li>
+                    <li><a class="link" href="/about/">About</a></li>
+                    <li><a class="link" href="https://github.com/tannerdolby/eleventy-photo-gallery">Code</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="about-me-content">
+            {{ content | safe }}
+        </main>
+        <footer style="margin-top: auto">
+            <div class="footer-content">
+                <div class="footer-info about">
+                    <p>&copy; 2020 {{ firstName }} {{ lastName }}. Built with <a href="https://www.11ty.dev/">Eleventy</a></p>
+                </div>
+            </div>   
+        </footer>
+    </body>
+</html>
