@@ -1,19 +1,18 @@
-{   
+{
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby"
+        "twitter": "https://twitter.com/ljc_dev",
+        "linkedin": "https://linkedin.com/in/jc-lee-a939831b5",
+        "dribbble": "https://dribbble.com/ljc_dev"
     },
     "pageMetadata": {
-        "home": {   
-            "content": "Welcome! This is currently a photo gallery template with images provided by Pexels. Built with the static site generator Eleventy. Replace my name with yours above if you've cloned the starter repository. Always make sure to have a meta description tag with content for each page to improve SEO. Feel free to update this description with any content of your choosing."
+        "home": {
+            "content": "Welcome to my collection of iconic Kpop Girl Groups. If I find the time will add more groups in the future. Thanks Tanner Dolby for this awesome gallery template!"
         },
         "featured": {
-            "content": "Featured image from (Your name here)'s image gallery on the home page. This seperate page contains more about the image itself, a link to where someone can find it, author/creditor. Oh ya, I almost forgot! Make sure to replace my name with yours when updating this meta description tag."
+            "content": "There's a thing called bias in the Kpop world. It means which group is your absolute favourite. SNSD introduced me to the world of Kpop. I watched their shows while I was losing faith in myself in college... My bias is Twice 😂!!"
         },
         "about": {
-            "content": "Your reading the about me page for (your name here). This template is currently the default version so add your own about me page info here."
+            "content": "I'm a 27yo guy who fell in love with Kpop while struggling in college. I also love korean variety shows. One day I'll be a successful Kpop fan 😁✨!"
         }
-
     }
 }

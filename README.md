@@ -1,5 +1,5 @@
 # Eleventy Photo Gallery
-
+*JC was here*
 A starter site for creating your own photo or art gallery using the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
 - [Live demo](https://eleventy-gallery.netlify.app/) - View the project live

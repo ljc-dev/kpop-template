@@ -1,9 +1,9 @@
 ---
-pageTitle: John Smith's Photo Gallery
-heading: Photo Gallery
-desc: A collection of recent images. Stock photos currently provided from Pexels. Add or remove images from the grid and customize your own image gallery!
-firstName: John
-lastName: Smith
+pageTitle: Kpop Girl Groups
+heading: Kpop Girl Groups
+desc: A collection of Kpop Girl Groups. <br>I'm a fan of Boy Groups too but I don't have the motivation to look for guys pics 😁. <br>    By alphabetic order.
+firstName: JC
+lastName: Lee
 layout: base.njk
 ---
 

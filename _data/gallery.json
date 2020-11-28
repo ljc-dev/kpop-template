@@ -1,24 +1,24 @@
 [
     {
-        "title": "Terrace with green plants on night street",
-        "date": "October 20, 2020",
-        "credit": "Photo by Aldiyar Seitkassymov",
+        "title": "Apink",
+        "date": "Check out",
+        "credit": "Apink's MV",
         "linkToAuthor": "https://www.pexels.com/photo/terrace-with-green-plants-on-night-street-3100835/",
         "imageData": {
             "alt": "Terrace outside shop window with green plants and pink tree on night street",
             "large": {
-                "webp": "/images/shop-plants-large.webp",
-                "jpg": "/images/shop-plants-large.jpg",
+                "webp": "/images/apink-large.webp",
+                "jpg": "/images/apink-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/shop-plants-med.webp",
-                "jpg": "/images/shop-plants-med.jpg",
+                "webp": "/images/apink-med.webp",
+                "jpg": "/images/apink-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/shop-plants-small.webp",
-                "jpg": "/images/shop-plants-small.jpg",
+                "webp": "/images/apink-small.webp",
+                "jpg": "/images/apink-small.jpg",
                 "width": "320w"
             }
         }
@@ -31,18 +31,18 @@
         "imageData": {
             "alt": "Skybridge over highway covered in water",
             "large": {
-                "webp": "/images/wet-street-large.webp",
-                "jpg": "/images/wet-street-large.jpg",
+                "webp": "/images/blackpink-large.webp",
+                "jpg": "/images/blackpink-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/wet-street-med.webp",
-                "jpg": "/images/wet-street-med.jpg",
+                "webp": "/images/blackpink-med.webp",
+                "jpg": "/images/blackpink-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/wet-street-small.webp",
-                "jpg": "/images/wet-street-small.jpg",
+                "webp": "/images/blackpink-small.webp",
+                "jpg": "/images/blackpink-small.jpg",
                 "width": "320w"
             }
         }
@@ -55,18 +55,18 @@
         "imageData": {
             "alt": "Brown painted wall with two benches and dim light above",
             "large": {
-                "webp": "/images/bench-light-large.webp",
-                "jpg": "/images/bench-light-large.jpg",
+                "webp": "/images/gfriend-large.webp",
+                "jpg": "/images/gfriend-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/bench-light-med.webp",
-                "jpg": "/images/bench-light-med.jpg",
+                "webp": "/images/gfriend-med.webp",
+                "jpg": "/images/gfriend-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/bench-light-small.webp",
-                "jpg": "/images/bench-light-med.jpg",
+                "webp": "/images/gfriend-small.webp",
+                "jpg": "/images/gfriend-med.jpg",
                 "width": "320w"
             }
         }
@@ -79,42 +79,42 @@
         "imageData": {
             "alt": "Red light streaks across a street intersection at night",
             "large": {
-                "webp": "/images/street-flash-large.webp",
-                "jpg": "/images/street-flash-large.jpg",
+                "webp": "/images/itzy-large.webp",
+                "jpg": "/images/itzy-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/street-flash-med.webp",
-                "jpg": "/images/street-flash-med.jpg",
+                "webp": "/images/itzy-med.webp",
+                "jpg": "/images/itzy-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/street-flash-small.webp",
-                "jpg": "/images/street-flash-small.jpg",
+                "webp": "/images/itzy-small.webp",
+                "jpg": "/images/itzy-small.jpg",
                 "width": "320w"
             }
         }
     },
     {
-        "title": "Abstract architecture black and white boardwalk",
+        "title": "Abstract architecture black and white izone",
         "date": "October 14, 2020",
         "credit": "Photo by Pixabay",
-        "linkToAuthor": "https://www.pexels.com/photo/abstract-architecture-black-and-white-boardwalk-262367/",
+        "linkToAuthor": "https://www.pexels.com/photo/abstract-architecture-black-and-white-izone-262367/",
         "imageData": {
-            "alt": "Abstract architecture black and white boardwalk with glass like floor",
+            "alt": "Abstract architecture black and white izone with glass like floor",
             "large": {
-                "webp": "/images/boardwalk-large.webp",
-                "jpg": "/images/boardwalk-large.jpg",
+                "webp": "/images/izone-large.webp",
+                "jpg": "/images/izone-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/boardwalk-med.webp",
-                "jpg": "/images/boardwalk-med.jpg",
+                "webp": "/images/izone-med.webp",
+                "jpg": "/images/izone-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/boardwalk-small.webp",
-                "jpg": "/images/boardwalk-small.jpg",
+                "webp": "/images/izone-small.webp",
+                "jpg": "/images/izone-small.jpg",
                 "width": "320w"
             }
         }
@@ -127,18 +127,18 @@
         "imageData": {
             "alt": "Person holding glass mason jar with night sky background",
             "large": {
-                "webp": "/images/glass-jar-sky-large.webp",
-                "jpg": "/images/glass-jar-sky-large.jpg",
+                "webp": "/images/mamamoo-large.webp",
+                "jpg": "/images/mamamoo-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/glass-jar-sky-med.webp",
-                "jpg": "/images/glass-jar-sky-med.jpg",
+                "webp": "/images/mamamoo-med.webp",
+                "jpg": "/images/mamamoo-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/glass-jar-sky-small.webp",
-                "jpg": "/images/glass-jar-sky-small.jpg",
+                "webp": "/images/mamamoo-small.webp",
+                "jpg": "/images/mamamoo-small.jpg",
                 "width": "320w"
             }
         }
@@ -147,22 +147,22 @@
         "title": "Radio City Music Hall During Night Time",
         "date": "October 11, 2020",
         "credit": "Photo by Bao Dang",
-        "linkToAuthor": "https://www.pexels.com/photo/radio-city-music-hall-during-night-time-3700369/",
+        "linkToAuthor": "https://www.pexels.com/photo/momoland-music-hall-during-night-time-3700369/",
         "imageData": {
             "alt": "Music hall with bright lights during night time",
             "large": {
-                "webp": "/images/radio-city-large.webp",
-                "jpg": "/images/radio-city-large.jpg",
+                "webp": "/images/momoland-large.webp",
+                "jpg": "/images/momoland-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/radio-city-med.webp",
-                "jpg": "/images/radio-city-med.jpg",
+                "webp": "/images/momoland-med.webp",
+                "jpg": "/images/momoland-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/radio-city-small.webp",
-                "jpg": "/images/radio-city-small.jpg",
+                "webp": "/images/momoland-small.webp",
+                "jpg": "/images/momoland-small.jpg",
                 "width": "320w"
             }
         }
@@ -175,18 +175,18 @@
         "imageData": {
             "alt": "Tall highrise office building with winding architecture",
             "large": {
-                "webp": "/images/city-center-large.webp",
-                "jpg": "/images/city-center-large.jpg",
+                "webp": "/images/rv-large.webp",
+                "jpg": "/images/rv-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/city-center-med.webp",
-                "jpg": "/images/city-center-med.jpg",
+                "webp": "/images/rv-med.webp",
+                "jpg": "/images/rv-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/city-center-small.webp",
-                "jpg": "/images/city-center-small.jpg",
+                "webp": "/images/rv-small.webp",
+                "jpg": "/images/rv-small.jpg",
                 "width": "320w"
             }
         }
@@ -199,18 +199,18 @@
         "imageData": {
             "alt": "Buildings during nighttime with orange lighting and water below",
             "large": {
-                "webp": "/images/highrise-orange-large.webp",
-                "jpg": "/images/highrise-orange-large.jpg",
+                "webp": "/images/snsd-large.webp",
+                "jpg": "/images/snsd-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/highrise-orange-med.webp",
-                "jpg": "/images/highrise-orange-med.jpg",
+                "webp": "/images/snsd-med.webp",
+                "jpg": "/images/snsd-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/highrise-orange-small.webp",
-                "jpg": "/images/highrise-orange-small.jpg",
+                "webp": "/images/snsd-small.webp",
+                "jpg": "/images/snsd-small.jpg",
                 "width": "320w"
             }
         }
@@ -219,70 +219,22 @@
         "title": "Water Droplet Digital Wallpaper",
         "date": "October 11, 2020",
         "credit": "Photo by Sourav Mishra",
-        "linkToAuthor": "https://www.pexels.com/photo/water-droplet-digital-wallpaper-1100946/",
+        "linkToAuthor": "https://www.pexels.com/photo/twice-digital-wallpaper-1100946/",
         "imageData": {
             "alt": "Rain drop bursting water particles upwards into the air",
             "large": {
-                "webp": "/images/water-droplet-large.webp",
-                "jpg": "/images/water-droplet-large.jpg",
+                "webp": "/images/twice-large.webp",
+                "jpg": "/images/twice-large.jpg",
                 "width": "1024w"
             },
             "medium": {
-                "webp": "/images/water-droplet-med.webp",
-                "jpg": "/images/water-droplet-med.jpg",
+                "webp": "/images/twice-med.webp",
+                "jpg": "/images/twice-med.jpg",
                 "width": "640w"
             },
             "small": {
-                "webp": "/images/water-droplet-small.webp",
-                "jpg": "/images/water-droplet-small.jpg",
-                "width": "320w"
-            }
-        }
-    },
-    {
-        "title": "Man walking on the empty street",
-        "date": "October 15, 2020",
-        "credit": "Photo by Marco Trinidad",
-        "linkToAuthor": "https://www.pexels.com/photo/photo-of-empty-road-during-daytime-3295140/",
-        "imageData": {
-            "alt": "An empty road during daytime with fog in the background",
-            "large": {
-                "webp": "/images/road-fog-large.webp",
-                "jpg": "/images/road-fog-large.jpg",
-                "width": "1024w"
-            },
-            "medium": {
-                "webp": "/images/road-fog-med.webp",
-                "jpg": "/images/road-fog-med.jpg",
-                "width": "640w"
-            },
-            "small": {
-                "webp": "/images/road-fog-small.webp",
-                "jpg": "/images/road-fog-small.jpg",
-                "width": "320w"
-            }
-        }
-    },
-    {
-        "title": "Gasoline station during nighttime",
-        "date": "October 23, 2020",
-        "credit": "Photo by Artem Saranin",
-        "linkToAuthor": "https://www.pexels.com/photo/gasoline-station-during-nighttime-1453781/",
-        "imageData": {
-            "alt": "Gasoline station during nighttime with glowing red roof lights",
-            "large": {
-                "webp": "/images/gas-station-large.webp",
-                "jpg": "/images/gas-station-large.jpg",
-                "width": "1024w"
-            },
-            "medium": {
-                "webp": "/images/gas-station-med.webp",
-                "jpg": "/images/gas-station-med.jpg",
-                "width": "640w"
-            },
-            "small": {
-                "webp": "/images/gas-station-small.webp",
-                "jpg": "/images/gas-station-small.jpg",
+                "webp": "/images/twice-small.webp",
+                "jpg": "/images/twice-small.jpg",
                 "width": "320w"
             }
         }
