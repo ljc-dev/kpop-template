@@ -112,6 +112,7 @@ module.exports = (eleventyConfig) => {
         "itzy.webp",
         "izone.webp",
         "mamamoo.jpg",
+        "momoland.webp",
         "rv.webp",
         "snsd.webp",
         "twice.webp",
