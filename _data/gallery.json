@@ -1,11 +1,11 @@
 [
     {
         "title": "Apink",
-        "date": "Check out",
-        "credit": "Apink's MV",
-        "linkToAuthor": "https://www.pexels.com/photo/terrace-with-green-plants-on-night-street-3100835/",
+        "date": "",
+        "credit": "Check out Apink on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=hspqQuuuGIw",
         "imageData": {
-            "alt": "Terrace outside shop window with green plants and pink tree on night street",
+            "alt": "Apink",
             "large": {
                 "webp": "/images/apink-large.webp",
                 "jpg": "/images/apink-large.jpg",
@@ -24,12 +24,12 @@
         }
     },
     {
-        "title": "Highway covered in water",
-        "date": "October 20, 2020",
-        "credit": "Photo by Josh Hild",
-        "linkToAuthor": "https://www.pexels.com/photo/highway-covered-in-water-2524368/",
+        "title": "BLACKPINK",
+        "date": "",
+        "credit": "Check out BLACKPINK on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=dyRsYk0LyA8",
         "imageData": {
-            "alt": "Skybridge over highway covered in water",
+            "alt": "BLACKPINK",
             "large": {
                 "webp": "/images/blackpink-large.webp",
                 "jpg": "/images/blackpink-large.jpg",
@@ -48,12 +48,12 @@
         }
     },
     {
-        "title": "Brown painted wall on dim light",
-        "date": "October 18, 2020",
-        "credit": "Photo by Lukas Hartmann",
-        "linkToAuthor": "https://www.pexels.com/photo/brown-painted-wall-on-dim-light-1055613/",
+        "title": "Gfriend",
+        "date": "",
+        "credit": "Check out Gfriend on",
+        "linkToAuthor": "https://www.youtube.com/watch?v=Se8bbsUFjC8",
         "imageData": {
-            "alt": "Brown painted wall with two benches and dim light above",
+            "alt": "Gfriend",
             "large": {
                 "webp": "/images/gfriend-large.webp",
                 "jpg": "/images/gfriend-large.jpg",
@@ -72,12 +72,12 @@
         }
     },
     {
-        "title": "Red light streaks across a street intersection at night",
-        "date": "October 16, 2020",
-        "credit": "Photo by Jan Kopriva",
-        "linkToAuthor": "https://www.pexels.com/photo/light-streaks-3290601/",
+        "title": "Itzy",
+        "date": "",
+        "credit": "Check out Itzy on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=wTowEKjDGkU",
         "imageData": {
-            "alt": "Red light streaks across a street intersection at night",
+            "alt": "Itzy",
             "large": {
                 "webp": "/images/itzy-large.webp",
                 "jpg": "/images/itzy-large.jpg",
@@ -96,12 +96,12 @@
         }
     },
     {
-        "title": "Abstract architecture black and white izone",
-        "date": "October 14, 2020",
-        "credit": "Photo by Pixabay",
-        "linkToAuthor": "https://www.pexels.com/photo/abstract-architecture-black-and-white-izone-262367/",
+        "title": "Izone",
+        "date": "",
+        "credit": "Check out Izone on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=nnVjsos40qk",
         "imageData": {
-            "alt": "Abstract architecture black and white izone with glass like floor",
+            "alt": "Izone",
             "large": {
                 "webp": "/images/izone-large.webp",
                 "jpg": "/images/izone-large.jpg",
@@ -120,12 +120,12 @@
         }
     },
     {
-        "title": "Person holding glass mason jar with night sky background",
-        "date": "October 12, 2020",
-        "credit": "Photo by Rakicevic Nenad",
-        "linkToAuthor": "https://www.pexels.com/photo/silhouette-of-person-holding-glass-mason-jar-1274260/",
+        "title": "Mamamoo",
+        "date": "",
+        "credit": "Check out Mamamoo on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=KhTeiaCezwM",
         "imageData": {
-            "alt": "Person holding glass mason jar with night sky background",
+            "alt": "Mamamoo",
             "large": {
                 "webp": "/images/mamamoo-large.webp",
                 "jpg": "/images/mamamoo-large.jpg",
@@ -144,12 +144,12 @@
         }
     },
     {
-        "title": "Radio City Music Hall During Night Time",
-        "date": "October 11, 2020",
-        "credit": "Photo by Bao Dang",
-        "linkToAuthor": "https://www.pexels.com/photo/momoland-music-hall-during-night-time-3700369/",
+        "title": "Momoland",
+        "date": "",
+        "credit": "Check out Momoland on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=JQGRg8XBnB4",
         "imageData": {
-            "alt": "Music hall with bright lights during night time",
+            "alt": "Momoland",
             "large": {
                 "webp": "/images/momoland-large.webp",
                 "jpg": "/images/momoland-large.jpg",
@@ -168,12 +168,12 @@
         }
     },
     {
-        "title": "City Building Office Architecture",
-        "date": "October 10, 2020",
-        "credit": "Photo by Jayson Marquez",
-        "linkToAuthor": "https://www.pexels.com/photo/city-building-office-architecture-4850412/",
+        "title": "Red Velvet",
+        "date": "",
+        "credit": "Check out Red Velvet on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=uR8Mrt1IpXg",
         "imageData": {
-            "alt": "Tall highrise office building with winding architecture",
+            "alt": "Red Velvet",
             "large": {
                 "webp": "/images/rv-large.webp",
                 "jpg": "/images/rv-large.jpg",
@@ -192,12 +192,12 @@
         }
     },
     {
-        "title": "Buildings during nighttime",
-        "date": "October 9, 2020",
-        "credit": "Photo by Aleksandar Pasaric",
-        "linkToAuthor": "https://www.pexels.com/photo/photo-of-buildings-during-nighttime-2603464/",
+        "title": "Girl's Generation (SNSD)",
+        "date": "",
+        "credit": "Check out SNSD on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=U7mPqycQ0tQ",
         "imageData": {
-            "alt": "Buildings during nighttime with orange lighting and water below",
+            "alt": "Girl's Generation (SNSD)",
             "large": {
                 "webp": "/images/snsd-large.webp",
                 "jpg": "/images/snsd-large.jpg",
@@ -216,12 +216,12 @@
         }
     },
     {
-        "title": "Water Droplet Digital Wallpaper",
-        "date": "October 11, 2020",
-        "credit": "Photo by Sourav Mishra",
-        "linkToAuthor": "https://www.pexels.com/photo/twice-digital-wallpaper-1100946/",
+        "title": "Twice",
+        "date": "",
+        "credit": "Check out Twice on ",
+        "linkToAuthor": "https://www.youtube.com/watch?v=CM4CkVFmTds",
         "imageData": {
-            "alt": "Rain drop bursting water particles upwards into the air",
+            "alt": "Twice",
             "large": {
                 "webp": "/images/twice-large.webp",
                 "jpg": "/images/twice-large.jpg",
